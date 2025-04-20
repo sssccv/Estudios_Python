@@ -1,0 +1,13 @@
+print("TIPOS DE DATOS")
+print("texto = string (str)")
+print("Numero entero = integer (int)")
+print("Numero decimal = floating (float)")
+print("lista, se escriben entre corchetes [] = (list)")
+print("diccionario, se escribe entre {}, van en pares = (dic) {'color':'rojo','arte':'cine'}")
+print("tuples, conjunto ordenado de elementos = (tuple)")
+print("sets =(set) {a,b,c,d,e} es como una lista, pero los elementos son únicos, no se repiten")
+print("booleano true or false = (bool)")
+
+print("---------------------------------")
+print("VARIABLES")
+print("una variable es un espacio de memoria en el que le asignas un nombre y un valor (num=1)")

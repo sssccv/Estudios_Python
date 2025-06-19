@@ -1,6 +1,6 @@
 import random
 import time
-print("****Cuando aparezca la señal, presiona cualquier botón****")
+print("****Cuando aparezca la señal, presiona enter****")
 random_time= random.uniform(0,8)
 time.sleep(random_time)
 time_start=time.time()
